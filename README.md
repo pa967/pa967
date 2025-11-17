@@ -1,7 +1,7 @@
 # 🐲 Hi, I'm Pankaj Singh Gwal 👋
 <!--
 ## 🚀 About Me
-
+🧑‍💻｡🇯‌🇸‌
 ## 🌱 Currently Exploring
 - 🚀 Learning Front-End Development
 - Exploring the ins and outs of React for dynamic front-end experiences.
