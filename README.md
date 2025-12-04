@@ -1,4 +1,4 @@
-# 🐲 Hi, I'm Pankaj Singh Gwal 👋
+#  Hi, I'm Pankaj Singh Gwal 👋
 <!--
 ## 🚀 About Me
 🧑‍💻｡🇯‌🇸‌
